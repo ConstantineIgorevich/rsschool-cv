@@ -1,6 +1,6 @@
 # Kanstantsin Davydovich
 ## Contact information:
-<!--empty--> | <!--empty-->
+Resource | Link
 ----------|----------------------
 E-mail     |  kostiarabota@gmail.com
 GitHub     |  https://github.com/ConstantineIgorevich
